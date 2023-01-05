@@ -1,0 +1,1 @@
+export { DataEmail } from './dataEmail.interface';

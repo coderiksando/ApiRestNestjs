@@ -5,17 +5,17 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-## Description
+## Descripción
 
-Api rest creado en [Nest](https://github.com/nestjs/nest) para el manejo de correos mediante [Mailer](https://nest-modules.github.io/mailer/) y guardado de información en BD no relacional [MongoDB](https://www.mongodb.com/).
+Api rest creado en [Nest](https://github.com/nestjs/nest) para el manejo de correos mediante [Mailer](https://nest-modules.github.io/mailer/) y guardado de información en BD no relacional [MongoDB](https://www.mongodb.com/), requiere de archivo env.
 
-## Installation
+## Instalación
 
 ```bash
 $ yarn install
 ```
 
-## Running the app
+## Correr la aplicación
 
 ```bash
 # development
